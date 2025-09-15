@@ -2,7 +2,7 @@
 
 ## 1. Clone the Repository
 
-Clone **UnleashedRecomp** with submodules using [Git](https://git-scm.com/).
+Clone **SawBladeRecomp** with submodules using [Git](https://git-scm.com/).
 ```
 git clone --recurse-submodules https://github.com/TeamRecomp/SawBladeRecomp.git
 ```
