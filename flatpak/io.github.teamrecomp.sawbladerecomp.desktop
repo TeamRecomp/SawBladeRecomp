@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=Unleashed Recompiled
-Exec=/app/bin/UnleashedRecomp
+Name=SawBlade Recompiled
+Exec=/app/bin/SawBladeRecomp
 Type=Application
-Icon=io.github.hedge_dev.unleashedrecomp
+Icon=io.github.teamrecomp.sawbladerecomp
 Categories=Game;
-Comment=Static recompilation of Sonic Unleashed.
-MimeType=x-scheme-handler/unleashedrecomp
+Comment=Static recompilation of Saw.
+MimeType=x-scheme-handler/sawbladerecomp
