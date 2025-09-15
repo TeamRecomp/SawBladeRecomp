@@ -56,7 +56,7 @@
 17. Right-click `Velocity.exe` and click **Properties**, then under the **Compatibility** tab, tick **Run this program as an administrator** and click **OK**. This is required in order for the program to recognize the storage device.
 18. Launch `Velocity.exe`. You should see a **Device Detected** message appear on launch asking if you would like to open the **Device Content Viewer**. Click **Yes**.
 19. You should now see a tree view of your storage device's contents. Expand the tree nodes for `/Shared Items/Games/` (and optionally `/Shared Items/DLC/`, if you have the DLC installed).
-20. Hold the CTRL key and click on **SONIC UNLEASHED** under the `Games` node, as well as the **Adventure Pack(s)** under the `DLC` node, if you have the DLC installed. Ensure all are selected before the next step.
+20. Hold the CTRL key and click on **Saw** under the `Games` node, as well as the **Adventure Pack(s)** under the `DLC` node, if you have the DLC installed. Ensure all are selected before the next step.
 21. Right-click any of the selected items and click **Copy Selected to Local Disk**, then navigate to the folder you created in step 18 and select it. Velocity will now begin copying the game files to your PC.
 22. Once the transfer is complete, close the **Device Content Viewer** window and navigate to **Tools > Device Tools > Raw Device Viewer**.
 23. Navigate to `/System Cache/Cache/` and click the **Name** column to sort by name. Look for a file that begins with `TU_19KA20I`, this is the title update which is required for installation.
